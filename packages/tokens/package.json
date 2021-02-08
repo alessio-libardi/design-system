@@ -1,0 +1,31 @@
+{
+  "name": "@alessio-libardi/tokens",
+  "description": "Alessio Libardi Design System Tokens",
+  "version": "1.0.0",
+  "keywords": [
+    "alessio-libardi",
+    "design-system",
+    "tokens"
+  ],
+  "author": "Alessio Libardi <alessio.libardi@gmail.com> (http://alessiolibardi.dev)",
+  "bugs": {
+    "url": "https://github.com/alessio-libardi/design-system/issues"
+  },
+  "homepage": "https://github.com/alessio-libardi/design-system",
+  "repository": "https://github.com/alessio-libardi/design-system",
+  "license": "MIT",
+  "main": "lib/design-tokens.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "style-dictionary": "^2.10.2"
+  }
+}

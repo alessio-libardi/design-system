@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@alessio-libardi/design-system",
   "private": true,
   "workspaces": [
     "packages/*"
